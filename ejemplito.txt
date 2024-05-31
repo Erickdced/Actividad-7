@@ -1,0 +1,4 @@
+Funciones 
+git branch
+git checkout 
+git algoo
