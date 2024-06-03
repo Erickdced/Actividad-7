@@ -1,0 +1,5 @@
+git clone - descarga un directorio que se encuentra en la nube
+git push - sube los cambios realizados en un repositorio local
+git pull - descarga los cambios realizados en un repositorio en linea
+git branch - crea una nueva rama en un repositorio local 
+git switch - cambia entre ramas
